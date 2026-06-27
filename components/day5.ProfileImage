@@ -1,0 +1,13 @@
+import React from "react";
+
+function ProfileImage({ image }) {
+  return (
+    <img
+      src={image}
+      alt="Worker"
+      className="profile-image"
+    />
+  );
+}
+
+export default ProfileImage;
