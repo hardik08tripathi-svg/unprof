@@ -1,0 +1,8 @@
+src/
+│── components/
+│   ├── ProfileCard.jsx
+│   ├── ProfileImage.jsx
+│   ├── Skills.jsx
+│── App.jsx
+│── App.css
+│── index.js
