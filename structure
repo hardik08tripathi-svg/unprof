@@ -1,0 +1,11 @@
+src/
+│── components/
+│   ├── Header.jsx
+│   ├── TaskForm.jsx
+│   ├── TaskList.jsx
+│   ├── TaskItem.jsx
+│   └── Filter.jsx
+│
+│── App.jsx
+│── App.css
+│── index.js
